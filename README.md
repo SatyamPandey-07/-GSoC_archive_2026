@@ -24,19 +24,19 @@ The 2025 proposals can be found on the repo [SammanSarkar/GSoC_archive_2025](htt
 2. **Clone your fork** to your local machine:
 
    ```
-   git clone https://github.com/YOUR_USERNAME/YOUR_FORK.git
+   git clone https://github.com/YOUR_USERNAME/-GSoC_archive_2026.git
    ```
 
 3. **Navigate to the repository**:
 
    ```
-   cd GSoC_archive_2026
+   cd -GSoC_archive_2026
    ```
 
 4. **Add the upstream repository**:
 
    ```
-   git remote add upstream https://github.com/nirmaltodwal7/GSoC_archive_2026.git
+   git remote add upstream https://github.com/SatyamPandey-07/-GSoC_archive_2026.git
    ```
 
 5. **Sync your fork** with the main repository:
@@ -71,7 +71,7 @@ The 2025 proposals can be found on the repo [SammanSarkar/GSoC_archive_2025](htt
 
 ## Contributors
 <!-- CONTRIBUTORS_START -->
-<a href="https://github.com/nirmaltodwal7"><img src="https://avatars.githubusercontent.com/u/162917515?v=4" width="50px" alt="nirmaltodwal7" /></a>
+<a href="https://github.com/SatyamPandey-07"><img src="https://github.com/SatyamPandey-07.png" width="50px" alt="SatyamPandey-07" /></a>
 <a href="https://github.com/TheRazorbill"><img src="https://github.com/TheRazorbill.png" width="50px" alt="TheRazorbill" /></a>
 <a href="https://github.com/VikramAditya33"><img src="https://github.com/VikramAditya33.png" width="50px" alt="VikramAditya33" /></a>
 <a href="https://github.com/satwiksps"><img src="https://github.com/satwiksps.png" width="50px" alt="satwiksps" /></a>
